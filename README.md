@@ -12,9 +12,9 @@ In this repository, you will find some **KNIME** workflows that have been develo
 
 The following workflows can be found in this repository:
 
-1. [**Dose Response Curve**](Dose_response_workflow) involves a KNIME workflow that can help for curve fitting of cell-based screening.
-2. **Dose Response Curve Toxicity** involves a KNIME workflow that can help for curve fitting of cell-based toxicity screening.
-
+1. [**Dose Response Workflow**](Dose_response_workflow) involves a KNIME workflow that can help for curve fitting of cell-based screening.
+2. **Dose Response Workflow Toxicity** involves a KNIME workflow that can help for curve fitting of cell-based toxicity screening.
+3. [**Dose Response Workflow Biochemical**](Dose_response_workflow_biochemical) involves a KNIME workflow that can help for curve fitting of biochemical screening.
 
 ### Software 
 
